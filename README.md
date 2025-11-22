@@ -54,8 +54,4 @@ Bu eklenti yalnızca eğitim amaçlıdır. Sorumlu bir şekilde ve Discord'un Hi
 
 ## 📝 Lisans
 
-MIT Lisansı - İhtiyaç duyduğunuz şekilde kullanmakta ve değiştirmekte özgürsünüz.
-
----
-
-Discord kullanıcıları için ❤️ ile yapıldı
+Apache License 2.0 - ile lisanslanmıştır.
