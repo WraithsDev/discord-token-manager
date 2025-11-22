@@ -9,6 +9,13 @@ Discord tokenlerini yönetmenizi sağlayan kullanışlı Chrome eklentisi. Token
 - 🚀 **Otomatik Giriş** - Kaydedilmiş tokenlerle Discord'a giriş yap
 - 🎨 **Modern Arayüz** - Temiz kullanıcı arayüzü
 
+## 📸 Ekran Görüntüleri
+
+<div align="center">
+  <img src="./görseller/1.png" alt="Ekran 1" width="300"/>
+  <br/><br/>
+</div>
+
 ## 📦 Kurulum
 
 1. Bu depoyu indirin veya klonlayın
